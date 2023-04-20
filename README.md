@@ -1,7 +1,24 @@
--  Hi, I’m @ryan-tobin
--  I’m interested in data science and genetic's research 
--  I’m currently learning python and R along with bash
--  How to reach me -> Email: ryan.tobin@temple.edu
+# Ryan Tobin
+
+Welcome to my personal GitHub page! I am a student at Temple University studying Genomic Medicine. I am passionate about exploring the intersection of computer science and biology, and I am currently working on releasing my first bioinformatic program PyCluster. 
+
+## Skills 
+
+- Bash 
+- Python 
+
+## Education 
+
+- Temple University, Junior, B.S. Genomic Medicine 
+
+
+## Projects 
+
+- PyCluster: A bioinformatic pipeline for running bulk .vcf files through PyClone
+
+## Contact 
+
+If you have any questions or would like to collaborate, please feel free to reach out to me at [ryan.tobin@temple.edu](mailto:ryan.tobin@temple.edu).
 
 <!---
 ryan-tobin/ryan-tobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
