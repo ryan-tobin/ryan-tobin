@@ -6,6 +6,9 @@ Welcome to my personal GitHub page! I am a student at Temple University studying
 
 - Bash 
 - Python 
+- R
+- HTML
+- JavaScript
 
 ## Education 
 
