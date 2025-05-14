@@ -1,29 +1,42 @@
-# Ryan Tobin
+# Hi, I'm Ryan Tobin
 
-Welcome to my personal GitHub page! I am a student at Temple University studying Genomic Medicine. I am passionate about exploring the intersection of computer science and biology, and I am currently working on releasing my first bioinformatic program PyCluster. 
+## Software Engineer & Data Analyst
 
-## Skills 
+Welcome to my portfolio! I'm a software engineer and data analyst with over 3 years of practical experience. I have a passion for coding and analyzing data, particularly in the fields of genomics and bioinformatics. Explore my projects and feel free to get in touch!
 
-- Bash 
-- Python 
-- R
-- HTML
+[View My Work](#projects) • [Contact Me](#contact)
+
+## 📌 About Me
+
+I am a software engineer and data analyst passionate about coding, analyzing data, and developing innovative solutions in genomics and bioinformatics. My work bridges technology and science, and I enjoy collaborating with interdisciplinary teams to solve complex problems. While my main coding languages are Python and R, I am also proficient in various frontend and backend technologies such as Java, JavaScript, Node.js, and more. I'm always eager to learn and grow as part of a dynamic software engineering team.
+
+## 🧰 Skills & Technologies
+
+### **Frontend**
+- React
 - JavaScript
+- HTML
+- CSS
+- Node.js
 
-## Education 
+### **Backend**
+- Python
+- SQL
+- Java
+- Node.js
 
-- Temple University, Junior, B.S. Genomic Medicine 
+### **Bioinformatics / Data Analytics**
+- Python
+- SQL
+- R
+- Excel
+- Bash
 
+## 📫 Contact Me
 
-## Projects 
+Feel free to reach out for collaborations, questions, or just to say hi!
 
-- GenoPath - 
+**Email:** [ryantobin119@gmail.com](mailto:ryantobin119@gmail.com)  
+**LinkedIn:** [linkedin.com/in/ryanntobinn](https://www.linkedin.com/in/ryanntobinn) <br>
+**Website:** [ryan-tobin.github.io](https://www.ryan-tobin.github.io)
 
-## Contact 
-
-If you have any questions or would like to collaborate, please feel free to reach out to me at [ryan.tobin@temple.edu](mailto:ryan.tobin@temple.edu).
-
-<!---
-ryan-tobin/ryan-tobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
