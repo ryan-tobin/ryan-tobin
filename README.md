@@ -38,5 +38,5 @@ Feel free to reach out for collaborations, questions, or just to say hi!
 
 **Email:** [ryantobin119@gmail.com](mailto:ryantobin119@gmail.com)  
 **LinkedIn:** [linkedin.com/in/ryanntobinn](https://www.linkedin.com/in/ryanntobinn) <br>
-**Website:** [ryan-tobin.github.io](https://www.ryan-tobin.github.io)
+**Website:** [ryan-tobin.github.io](https://ryan-tobin.github.io)
 
