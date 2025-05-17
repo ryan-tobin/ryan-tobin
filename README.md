@@ -32,6 +32,10 @@ I am a software engineer and data analyst passionate about coding, analyzing dat
 - Excel
 - Bash
 
+## Certifications
+- KNIME L1
+- React (Basic) from HackerRank
+
 ## 📫 Contact Me
 
 Feel free to reach out for collaborations, questions, or just to say hi!
