@@ -12,29 +12,12 @@ I am a software engineer and data analyst passionate about coding, analyzing dat
 
 ## Skills & Technologies
 
-### **Frontend**
-- React
-- JavaScript
-- HTML
-- CSS
-- Node.js
-
-### **Backend**
 - Python
-- SQL
+- SQL (Postgre)
+- JavaScript, TypeScript
+- C
+- Go 
 - Java
-- Node.js
-
-### **Bioinformatics / Data Analytics**
-- Python
-- SQL
-- R
-- Excel
-- Bash
-
-## Certifications
-- KNIME L1
-- React (Basic) from HackerRank
 
 ## Contact Me
 
