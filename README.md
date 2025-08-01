@@ -6,11 +6,11 @@ Welcome to my portfolio! I'm a software engineer and data analyst with over 3 ye
 
 [View My Work](#projects) • [Contact Me](#contact)
 
-## 📌 About Me
+## About Me
 
 I am a software engineer and data analyst passionate about coding, analyzing data, and developing innovative solutions in genomics and bioinformatics. My work bridges technology and science, and I enjoy collaborating with interdisciplinary teams to solve complex problems. While my main coding languages are Python and R, I am also proficient in various frontend and backend technologies such as Java, JavaScript, Node.js, and more. I'm always eager to learn and grow as part of a dynamic software engineering team.
 
-## 🧰 Skills & Technologies
+## Skills & Technologies
 
 ### **Frontend**
 - React
@@ -36,7 +36,7 @@ I am a software engineer and data analyst passionate about coding, analyzing dat
 - KNIME L1
 - React (Basic) from HackerRank
 
-## 📫 Contact Me
+## Contact Me
 
 Feel free to reach out for collaborations, questions, or just to say hi!
 
